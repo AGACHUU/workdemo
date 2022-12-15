@@ -70,3 +70,11 @@ public static void main(String[] args){
   system.out.println("Hello Java");
 }
 ```
+
+###글자강조
+**굵은 글씨**
+_이텔릭_
+_이텔릭_
+~~취소선~~
+
+<u>밑줄</u>
