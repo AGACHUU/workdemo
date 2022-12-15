@@ -89,4 +89,4 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver]([image.png](https://i.pinimg.com/564x/c3/64/25/c36425161d90fbe34119b356b41b5625.jpg)
+![naver]((https://i.pinimg.com/564x/c3/64/25/c36425161d90fbe34119b356b41b5625.jpg)
