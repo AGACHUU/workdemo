@@ -92,4 +92,4 @@ _이텔릭_
 ![pinterest](https://i.pinimg.com/564x/f5/d1/f7/f5d1f75fba424336919edc2f66179991.jpg)
 
 ![box](images/mobile.jpg)
-[![daum] (images/daum.png)](https://www.daum.net/)
+[![daum](images/daum.png)](https://www.daum.net/)
