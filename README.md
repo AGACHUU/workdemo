@@ -89,4 +89,7 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver]((https://i.pinimg.com/564x/c3/64/25/c36425161d90fbe34119b356b41b5625.jpg)
+![pinterest](https://i.pinimg.com/564x/f5/d1/f7/f5d1f75fba424336919edc2f66179991.jpg)
+
+![box](images/mobile.jpg)
+[![daum]]
